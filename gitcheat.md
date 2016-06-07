@@ -6,3 +6,4 @@ git status
 git add
 git commit -m "(message)" commit
 git commit -am "(message)"- add changes and commit
+Test to make changes!
